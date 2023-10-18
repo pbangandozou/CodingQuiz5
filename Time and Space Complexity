@@ -1,0 +1,3 @@
+Time : The time complexity for mars in 0(n) because it goes thru the array only once to find the 3 matching letters
+
+Space: Log(n) because it takes multiple variables for example the variable that checks the string input
